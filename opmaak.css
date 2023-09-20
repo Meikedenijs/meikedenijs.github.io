@@ -12,16 +12,16 @@ li {
 
 li a {
   display: block;
-  color: green;
+  color:white ;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: #111;
+  background-color:black;
 }
 
 .active {
-  background-color: #04AA6D;
+  background-color: black;
 }
