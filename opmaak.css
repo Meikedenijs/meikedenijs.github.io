@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #fdafaf;
+  background-color: #f3f0f0;
 }
 
 li {
@@ -12,7 +12,7 @@ li {
 
 li a {
   display: block;
-  color:white ;
+  color:rgb(245, 165, 165) ;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
